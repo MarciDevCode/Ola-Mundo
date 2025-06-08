@@ -1,4 +1,7 @@
 # Olá, Mundo!
+
+Sejam bem vindos ao meu Github.
+
 Primeiro repositório público de Git e GitHub.
 
 Repositório criado durante aula ao vivo do Curso em Video!
