@@ -2,3 +2,5 @@
 Primeiro repositório público de Git e GitHub.
 
 Repositório criando durante aula ao vivo do Curso em Video!
+
+Obs: Essa alteração realizaei diretamente no site. FANTÁSTICO! 
